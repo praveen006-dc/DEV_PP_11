@@ -1,0 +1,2 @@
+git log
+with this command we can view/check all logs.
